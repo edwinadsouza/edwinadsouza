@@ -1,3 +1,4 @@
+[MasterHead](https://cdn.mindbowser.com/wp-content/uploads/2022/09/22101719/Data-Analytics-Trends-For-2023-Beyond-Banner.png)
 # 💫 About Me:
 🔭 I’m currently working on and with Data, Python Modules<br>👯 I’m looking to collaborate on Data Science, AI/ML projects<br>🌱 I’m currently learning Java, Flutter, Firebase<br>💬 Ask me about Python Pandas, MySQL<br>⚡ Fun fact I'm passionate about the things I do!
 
