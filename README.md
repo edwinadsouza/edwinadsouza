@@ -1,4 +1,4 @@
-# Hi there! 👋 ![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+# Hi there! 👋
 
 I'm currently pursuing BTech in Computer Engineering. I am passionate about coding and I am an aspiring Data Scientist.
 
@@ -7,9 +7,6 @@ I'm currently pursuing BTech in Computer Engineering. I am passionate about codi
 - [LinkedIn](https://www.linkedin.com/in/edwinadsouza26)
 
 ## About me:
-
-![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
 - 🔭 I’m currently working on improving my coding skills.
 - 🌱 I’m currently learning Data Science and Machine Learning.
 - 👯 I’m looking to collaborate on open source projects.
