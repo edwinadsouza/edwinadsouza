@@ -1,4 +1,4 @@
-# Hi there! 👋 ![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy-downsized-small.gif)
+# Hi there! 👋
 
 I'm currently pursuing BTech in Computer Engineering. I am passionate about coding and I am an aspiring Data Scientist.
 
