@@ -4,7 +4,7 @@ I'm currently pursuing BTech in Computer Engineering. I am passionate about codi
 
 ## Connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/edwinadsouza26)
+- [LinkedIn](https://www.linkedin.com/in/edwinadsouza26/)
 
 ## About me:
 - 🔭 I’m currently working on improving my coding skills.
