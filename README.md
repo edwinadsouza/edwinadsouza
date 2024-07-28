@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! My name is Edwina Dsouza 👋
 
 I'm currently pursuing BTech in Computer Engineering. I am passionate about coding and I am an aspiring Data Scientist.
 
