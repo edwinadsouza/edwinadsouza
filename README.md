@@ -19,7 +19,7 @@ Here's your updated introduction with a cat GIF included:
 
 ---
 -->
-# Hi there! My name is Edwina Dsouza <img src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" width="50">
+# Hi there! My name is Edwina Dsouza <img src="https://giphy.com/gifs/tech-programming-backend-KGhpQ5NMoWKQurlHwI" width="50">
 
 I'm currently pursuing BTech in Computer Engineering. I am passionate about coding and I am an aspiring Data Scientist.
 
